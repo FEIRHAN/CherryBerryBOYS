@@ -159,9 +159,9 @@ footer {
 }
 
 .texto-revista {
-    column-count: 2;        /* número de columnas */
-    column-gap: 60px;       /* espacio entre columnas */
-    column-rule: 1px solid #A4133C; /* línea divisoria opcional */
+    column-count: 2;        
+    column-gap: 60px;       
+    column-rule: 1px solid #A4133C; 
     font-family: 'Satoshi', sans-serif;
     width: 50%;
     margin-left: 15px;
@@ -182,4 +182,9 @@ footer {
 .imagen-deco img{
     border-radius: 10px;
     height: 500px;
+}
+
+.titulo-cuerpo{
+    font-family: 'RetroMother-Regular', sans-serif;
+    color: #A4133C;
 }
